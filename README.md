@@ -10,3 +10,5 @@
 
 - To Stop Application
   - stop
+
+![sample_output](output.png)
